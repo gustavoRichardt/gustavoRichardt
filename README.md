@@ -30,7 +30,6 @@
 </div>
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL%20Workbench-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -48,8 +47,8 @@
 <div align="center">
   <h2 style="color:#7ED6FF;">Contato</h2>
 
-  <a href="mailto:gustavorichardt77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7ED6FF?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:gustavo_richardt@estudante.sesisenai.org.br">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
 </div>
 

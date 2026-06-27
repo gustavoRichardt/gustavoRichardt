@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-🚀 Explorando programação, lógica e desenvolvimento de projetos
+Explorando programação, lógica e desenvolvimento de projetos
 </div>
 
 ---

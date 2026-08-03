@@ -13,6 +13,13 @@ Explorando programação, lógica e desenvolvimento de projetos
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavoRichardt&bg_color=0d1117&color=FFFFFF&line=7ED6FF&point=7ED6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
+<!-- Linguagens Mais Usadas -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=true&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
+</a>
+
 </div>
 
 ---

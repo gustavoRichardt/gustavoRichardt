@@ -15,10 +15,8 @@ Explorando programação, lógica e desenvolvimento de projetos
 
 <br>
 
-<!-- Linguagens Mais Usadas -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=true&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
-</a>
+<!-- Linguagens Mais Usadas Corregido -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=true&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
 
 </div>
 

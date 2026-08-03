@@ -16,9 +16,7 @@ Explorando programação, lógica e desenvolvimento de projetos
 <br>
 
 <!-- Linguagens Mais Usadas com Borda -->
-<div style="display: inline-block; border: 2px solid #7ED6FF; border-radius: 10px; padding: 5px; background-color: #0d1117;">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=true&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" style="display: block;" />
-</div>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=false&border_color=7ED6FF&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
 
 </div>
 

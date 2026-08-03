@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7ED6FF&height=120&section=header" />
 </p>
 
-<div align="center">
-Explorando programação, lógica e desenvolvimento de projetos
-</div>
-
 ---
 <br>
 

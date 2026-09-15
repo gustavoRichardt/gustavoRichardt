@@ -7,12 +7,14 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavoRichardt&bg_color=0d1117&color=FFFFFF&line=7ED6FF&point=7ED6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoRichardt&bg_color=0d1117&color=FFFFFF&line=7ED6FF&point=7ED6FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
 
-<br>
+<br><br>
 
-<!-- Linguagens Mais Usadas com Borda -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=false&border_color=7ED6FF&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <!-- Linguagens Mais Usadas com Borda -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=false&border_color=7ED6FF&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
 
 </div>
 

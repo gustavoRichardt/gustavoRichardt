@@ -8,7 +8,7 @@
 <div align="center">
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoRichardt&bg_color=0d1117&color=FFFFFF&line=7ED6FF&point=7ED6FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gustavoRichardt&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
   </a>
 
 <br><br>

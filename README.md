@@ -7,13 +7,12 @@
 
 <div align="center">
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-stats.vercel.app/api?username=gustavoRichardt&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
+  <!-- Gráfico de Sequência de Contribuições (Ativo) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoRichardt&theme=dark&background=0d1117&border=7ED6FF&stroke=7ED6FF&ring=7ED6FF&fire=7ED6FF&currStreakNum=7ED6FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
-<br><br>
+  <br><br>
 
-  <!-- Linguagens Mais Usadas com Borda -->
+  <!-- Linguagens Mais Usadas -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoRichardt&layout=compact&hide_border=false&border_color=7ED6FF&title_color=7ED6FF&text_color=FFFFFF&icon_color=7ED6FF&bg_color=0d1117" alt="Linguagens mais usadas" />
 
 </div>
